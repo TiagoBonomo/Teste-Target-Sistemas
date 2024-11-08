@@ -1,18 +1,10 @@
 ### Olá 👋
 
-Formado como Técnico de Informática e  Técnico em Redes de computadores pelo CEET Vasco Coutinho, cursando Desenvolvimento Full Stack na Estácio, curioso e apaixonado por TI.
+Teste Realizado dia 08/11/2024
 
-- 🔭 Atualmente trabalho com suporte técnico em geral na área de TI,
-     Help Desk, Field Service, Service Desk.
-
-- 🌱 Estudando Flask, Django, Inteligência Artificial, Analise de Dados.
-
-- 🤔 Em busca de vagas no Desenvolvimento(Novos desafios).  
-
-- ⚡ Jogador casual de COD Warzone(O melhor da minha rua 😄 ).
+- 🔭 Foi utilizado Google Colab, VScode e Chatgpt.
 
 - 📫 tiagofbonomo@gmail.com
-
 
 <!--
 **TiagoBonomo/TiagoBonomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
